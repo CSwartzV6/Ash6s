@@ -1,27 +1,16 @@
 ---
-title: "Making sense of the SCAA’s new Flavor Wheel"
-date: 2016-12-17T15:04:10.000Z
-description: The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.
-image: /img/blog-flavor_wheel.jpg
+title: Razer Viper - Beautiful. I'm sending it back.
+date: 2021-03-31T21:15:00.000Z
+description:  I've recently grabbed some Razer products after watching countless
+  videos and reading many posts insisting that their latest and greatest are
+  just that. I've found this to be true of my Pro V2 wireless headset and the
+  Kiyo webcam with built-in ring light. However, I unfortunately cannot say the
+  same for the Viper.
+image: img/viper.jpg
 ---
+[](https://www.blogger.com/u/1/blog/post/edit/3788212891102934149/2640367909488837614#)Overall, it is decently comfortable but my hand (which is a measured medium by Razer standards) feels a bit too big, and yes this is the regular sized Viper (wired version and not mini). I use a palm style grip, and coming from my Roccat Kova, this just doesn't have the same comfort. My palm almost feels like it is sitting on the buttons a bit. But this I could get past...
 
-The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
+If it weren't for the mushy right-click. It appears to be a problem that haunts Razer Viper mice. Many complaints across Amazon and other platforms confirming that some are shipped with mushy bu\
+ttons in one spot or another, ringing the concern bells for quality control. On my Kova I can play a game such as League of Legends all night without tired fingers. After just *one* match of LoL on my new Viper and my right click finger (middle finger) was feeling very worn out. It just didn't have the springiness pushing my finger back up. I'd hoped maybe after a bit it would wear in as some described, but this continued and it is a deal breaker.
 
-While this is going to be a big change for professional coffee tasters, it means a lot to you as a consumer as well. We’ll explain how the wheel came to be, how pros use it and what the flavors actually mean.
-
-## What the updates mean to you
-
-The Specialty Coffee Association of America (SCAA), founded in 1982, is a non-profit trade organization for the specialty coffee industry. With members located in more than 40 countries, SCAA represents every segment of the specialty coffee industry, including:
-
-- producers
-- roasters
-- importers/exporters
-- retailers
-- manufacturers
-- baristas
-
-For over 30 years, SCAA has been dedicated to creating a vibrant specialty coffee community by recognizing, developing and promoting specialty coffee. SCAA sets and maintains quality standards for the industry, conducts market research, and provides education, training, resources, and business services for its members.
-
-Coffee cupping, or coffee tasting, is the practice of observing the tastes and aromas of brewed coffee. It is a professional practice but can be done informally by anyone or by professionals known as "Q Graders". A standard coffee cupping procedure involves deeply sniffing the coffee, then loudly slurping the coffee so it spreads to the back of the tongue.
-
-The coffee taster attempts to measure aspects of the coffee's taste, specifically the body (the texture or mouthfeel, such as oiliness), sweetness, acidity (a sharp and tangy feeling, like when biting into an orange), flavour (the characters in the cup), and aftertaste. Since coffee beans embody telltale flavours from the region where they were grown, cuppers may attempt to identify the coffee's origin.
+If you have smaller hands or a different grip style (and a little luck on getting a perfectly clicky mouse) you may love this mouse. The scroll feels really good, and you can middle click without accidentally scrolling (a problem on my Kova). It's a sharp looking addition to the collection, but sadly it isn't the right one for me. According to [Razer](https://www.blogger.com/u/1/blog/post/edit/3788212891102934149/2640367909488837614#), I should try the Basilisk, Mamba or DeathAdder. The search will continue.
